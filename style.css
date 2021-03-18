@@ -9,8 +9,9 @@ body {
   padding: 0;
 }
 h1 {color: white;
-font-family: cursive;
+font-family: Arial;
 text-align: center;}
-li{border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  color: rgba(255, 255, 255, 0.5)}
-h2{color: white}
+h2{color: white;
+font-family: cursive;}
+p{color: white;
+opacity: 0.75;}
