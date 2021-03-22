@@ -9,9 +9,11 @@ body {
   padding: 0;
 }
 h1 {color: white;
-font-family: Arial;
+font-family: cursive;
 text-align: center;}
 h2{color: white;
 font-family: cursive;}
 p{color: white;
 opacity: 0.75;}
+.a{color: white;}
+.external-link{color: white;}
